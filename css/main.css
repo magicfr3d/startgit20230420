@@ -5,3 +5,9 @@ body {
 h1 {
     color: #F64D27;
 }
+
+h2{
+    color: red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
